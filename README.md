@@ -1,6 +1,5 @@
 ## Our Deliverables
-* [Project Proposal](./proposal%20doc/MARL_Autonomous_Vehicle_Proposal.pdf)
-* [Presenting Our Proposal](./MARL_autonomous_vehicle_proposal_presentation.pdf)
+* [Project Proposal](./proposal%20doc/Asymmetric Communication in MARL.pdf)
 * [A Research Summary](./MARL-Lane_Changing-Presentation.pdf)
 * Our Interim Results: [[Project Presentation]](./MARL_autonomous_vehicle_project_presentation.pdf) [[Project Report]](./COMP5801%20Multi%20Agent%20RL%20Project%20Report%20-%20Kelvin,%20Kimia,%20Chintan.pdf)
 
